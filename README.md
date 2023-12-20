@@ -9,11 +9,11 @@ I'm ExamV1, Welcome to my GitHub profile!
 
 ## 📫 Socials
 
-- Discord: Exam#1064
+- Discord: _exam
 - Replit: https://replit.com/@ExamV1
 - Pastebin: https://pastebin.com/u/ExamV1
 
-<img src="https://discord.c99.nl/widget/theme-3/339434466026192897.png"></img>
+
 
 
 ### Disclaimer
